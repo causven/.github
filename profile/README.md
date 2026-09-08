@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./causven-enterprise-banner.png" alt="CAUSVEN — Enterprise Technology & AI Orchestration" width="100%">
+</p>
+
 # CAUSVEN
 
 ### Enterprise Technology & AI Orchestration
