@@ -2,8 +2,6 @@
   <img src="./causven-enterprise-banner.png" alt="CAUSVEN — Enterprise Technology & AI Orchestration" width="100%">
 </p>
 
-# CAUSVEN
-
 ### Enterprise Technology & AI Orchestration
 
 **Engineering dependable software, intelligent systems, secure automation, and developer infrastructure for real-world operations.**
